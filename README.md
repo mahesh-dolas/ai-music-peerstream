@@ -2,7 +2,7 @@
 Emphasizes AI + peer-to-peer streaming.
 # P2P-AI Music PoC
 
-A **Proof-of-Concept (PoC)** for a legal, AI-powered, peer-to-peer music platform for building start-up platform.  
+A **Proof-of-Concept (PoC)** for a legal, AI-powered, peer-to-peer music platform for building start-up.  
 This PoC runs on **AWS** and demonstrates artist uploads, AI tagging, P2P playback, and royalty logging.
 
 ---
